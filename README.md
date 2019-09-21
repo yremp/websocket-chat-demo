@@ -18,13 +18,21 @@
 <h3>项目预览</h3>
 <!-- /wp:heading -->
 
+<!-- wp:heading {"level":4} -->
+<h4>
+
+设置名称
+
+</h4>
+<!-- /wp:heading -->
+
 <!-- wp:image {"id":1536} -->
-<figure class="wp-block-image"><img src="https://yremp.live/wp-content/uploads/2019/09/image-22-1024x521.png" alt="" class="wp-image-1536"/><figcaption>设置名称</figcaption></figure>
+<figure class="wp-block-image"><img src="https://yremp.live/wp-content/uploads/2019/09/image-22-1024x521.png" alt="" class="wp-image-1536"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p>聊天</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading {"level":4} -->
+<h4>聊天</h4>
+<!-- /wp:heading -->
 
 <!-- wp:image {"id":1538} -->
 <figure class="wp-block-image"><img src="https://yremp.live/wp-content/uploads/2019/09/image-24-1024x521.png" alt="" class="wp-image-1538"/></figure>
@@ -61,6 +69,4 @@
 <ol><li> WebSocketConfig.class              -配置类</li><li>ChatMessage.class                       -消息实体类</li><li>CahtController.class                    -控制器</li><li>WebSocketEventListen.class     -事件监听 </li><li>static以及templates                     -静态文件资源</li></ol>
 <!-- /wp:list -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->

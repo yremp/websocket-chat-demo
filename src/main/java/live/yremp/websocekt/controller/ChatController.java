@@ -1,6 +1,6 @@
 package live.yremp.websocekt.controller;
 
-import live.yremp.websocekt.entitry.ChatMessage;
+import live.yremp.websocekt.entity.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

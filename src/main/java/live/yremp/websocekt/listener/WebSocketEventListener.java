@@ -1,6 +1,6 @@
 package live.yremp.websocekt.listener;
 
-import live.yremp.websocekt.entitry.ChatMessage;
+import live.yremp.websocekt.entity.ChatMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

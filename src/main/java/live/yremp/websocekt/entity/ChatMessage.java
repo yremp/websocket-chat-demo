@@ -1,8 +1,4 @@
 package live.yremp.websocekt.entity;
-
-import lombok.Data;
-
-@Data
 public class ChatMessage {
     private MessageType type;
     private String content;

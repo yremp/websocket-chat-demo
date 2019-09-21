@@ -34,9 +34,9 @@
 <h3>项目结构</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image {"id":1534} -->
-<figure class="wp-block-image"><img src="https://yremp.live/wp-content/uploads/2019/09/image-21.png" alt="" class="wp-image-1534"/></figure>
-<!-- /wp:image -->
+<!-- wp:list {"ordered":true} -->
+<ol><li>websocket<ul><li>controller<ul><li>ChatController.class</li></ul></li><li>entity<ul><li>ChatMessage.class</li></ul></li><li>listener<ul><li>WebSocketEventListener.class</li></ul></li><li>WebSocketConfig<ul><li> WebSocketConfig .class</li></ul></li></ul></li><li>resource<ul><li>static<ul><li>css<ul><li>main.css</li></ul></li><li>js<ul><li>main.js</li></ul></li></ul></li><li>templates<ul><li>index.html</li></ul></li></ul></li></ol>
+<!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
 <h3>项目说明</h3>
